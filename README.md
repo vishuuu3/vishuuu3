@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Vishuu!
 
+# Computer Engineering & AI | Data Science & WebTech | Python & Django
+
 ## 🚀 About Me
 I'm a passionate **Data Analyst** and **Web Developer** with a knack for transforming data into actionable insights and crafting beautiful, user-friendly web experiences. I enjoy solving complex problems and am always eager to learn new technologies.
 
@@ -23,6 +25,8 @@ I'm a passionate **Data Analyst** and **Web Developer** with a knack for transfo
 
 - **Sales Insights Dashboard**  
   *Built an interactive dashboard using Tableau and SQL to visualize sales data and uncover trends for business decision-making.*
+  - View on Github https://github.com/vishuuu3/Coffee-Sales-Analysis-Report
+  
 - **Weather App**  
   *Developed a responsive web app using React and OpenWeather API to display real-time weather information.*
 - **E-Commerce Analytics**  
