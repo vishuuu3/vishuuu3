@@ -1,14 +1,41 @@
-- 👋 Hi, I’m @vishuuu3
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on ...
+# Hi there 👋, I'm Vishuu!
 
+## 🚀 About Me
+I'm a passionate **Data Analyst** and **Web Developer** with a knack for transforming data into actionable insights and crafting beautiful, user-friendly web experiences. I enjoy solving complex problems and am always eager to learn new technologies.
 
-- 📫 Just believe in yourself...
+---
 
+## 🛠️ Technical Skills
 
+### Data Analytics
+- **Languages:** Python,  SQL
+- **Tools:** Excel, Tableau, Power BI, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
+- **Data Handling:** Data cleaning, visualization, statistical analysis, reporting
 
-<!---
-vishuuu3/vishuuu3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Web Development
+- **Languages:** HTML, CSS, JavaScript, 
+- **Frameworks:** React, Node.js, Django (basics)
+- **Other:** RESTful APIs, Responsive Design, Git, GitHub
+
+---
+
+## 📈 My Projects
+
+- **Sales Insights Dashboard**  
+  *Built an interactive dashboard using Tableau and SQL to visualize sales data and uncover trends for business decision-making.*
+- **Weather App**  
+  *Developed a responsive web app using React and OpenWeather API to display real-time weather information.*
+- **E-Commerce Analytics**  
+  *Analyzed customer and sales data with Python and presented actionable insights using Power BI.*
+
+> Check out more on my [GitHub repositories](https://github.com/vishuuu3?tab=repositories)!
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/vishu381)
+- Email: vishuk1469@gmail.com
+
+---
+
+*Open to exciting collaborations and opportunities!*
