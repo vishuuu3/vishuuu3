@@ -25,7 +25,8 @@ I'm a passionate **Data Analyst** and **Web Developer** with a knack for transfo
 
 - **Sales Insights Dashboard**  
   *Built an interactive dashboard using Tableau and SQL to visualize sales data and uncover trends for business decision-making.*
-  -[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/vishuuu3/Coffee-Sales-Analysis-Report)
+  
+  - [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/vishuuu3/Coffee-Sales-Analysis-Report)
 
   
   
