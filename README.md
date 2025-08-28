@@ -25,7 +25,7 @@ I'm a passionate **Data Analyst** and **Web Developer** with a knack for transfo
 
 - **Sales Insights Dashboard**  
   *Built an interactive dashboard using Tableau and SQL to visualize sales data and uncover trends for business decision-making.*
-  - View on Github https://github.com/vishuuu3/Coffee-Sales-Analysis-Report
+  - [View on Github] (https://github.com/vishuuu3/Coffee-Sales-Analysis-Report)
   
 - **Weather App**  
   *Developed a responsive web app using React and OpenWeather API to display real-time weather information.*
