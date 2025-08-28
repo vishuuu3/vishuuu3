@@ -40,8 +40,10 @@ I'm a passionate **Data Analyst** and **Web Developer** with a knack for transfo
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/vishu381)
-- Email: vishuk1469@gmail.com
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishuuu3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishu381/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vishuk1469@gmail.com)
+
 
 ---
 
