@@ -28,10 +28,10 @@ I'm a passionate **Data Analyst** and **Web Developer** with a knack for transfo
   
    [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/vishuuu3/Coffee-Sales-Analysis-Report)
 
-  - **Uber Data Analysis**
-    *Write a program to analysis the data of Uber where it shows like which **Days/Months** are the busiest, which is most bussiest **Route** etc*
+- **Uber Data Analysis**
+   *Write a program to analysis the data of Uber where it shows like which **Days/Months** are the busiest, which is most bussiest **Route** etc*
 
-    [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/vishuuu3/Uber-Data-Analysis)
+   [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/vishuuu3/Uber-Data-Analysis)
     
 
   
