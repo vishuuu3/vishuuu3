@@ -50,7 +50,8 @@ I'm a passionate **Data Analyst** and **Web Developer** with a knack for transfo
 
 ---
 
-## 📫 Let's Connect!
+## ![Description] (https://camo.githubusercontent.com/63ff0318739ea425101c8f502e567915191ddfd91d7e09eaecd9bd197c82e089/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5269676874656f75732673697a653d333526636f6c6f723d3046463046432663656e7465723d74727565267643656e7465723d747275652677696474683d353530266865696768743d3730266475726174696f6e3d34303030266c696e65733d436f6e6e6563742b776974682b6d653b)
+
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishuuu3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishu381/)
 [![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vishuk1469@gmail.com&su=Hello%20from%20GitHub)
