@@ -42,7 +42,7 @@ I'm a passionate **Data Analyst** and **Web Developer** with a knack for transfo
   
   
 - **Diwali Sales Analysis**
--   * Write a program to analysis the data of Diwali sales where it shows like which gender/age is buying the most and from which states people are buying the most*.
+    * Write a program to analysis the data of Diwali sales where it shows like which gender/age is buying the most and from which states people are buying the most*.
 
 
 -  [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/vishuuu3/Diwali-Sales-Analysis)
