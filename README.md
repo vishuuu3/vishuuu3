@@ -41,10 +41,13 @@ I'm a passionate **Data Analyst** and **Web Developer** with a knack for transfo
 
   
   
-- **Weather App**  
-  *Developed a responsive web app using React and OpenWeather API to display real-time weather information.*
-- **E-Commerce Analytics**  
-  *Analyzed customer and sales data with Python and presented actionable insights using Power BI.*
+- **Diwali Sales Analysis**
+-   * Write a program to analysis the data of Diwali sales where it shows like which gender/age is buying the most and from which states people are buying the most*.
+
+
+-  [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/vishuuu3/Diwali-Sales-Analysis)
+
+  
 
 > Check out more on my [GitHub repositories](https://github.com/vishuuu3?tab=repositories)!
 
